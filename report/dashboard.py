@@ -58,7 +58,10 @@ class Header(BaseComponent):
         # Using the model argument for this method
         # return a fasthtml H1 object
         # containing the model's name attribute
-        return H1(model.name)
+
+        # Capitalize the first letter of the name and add "Performance"
+        header_text = model.name.capitalize() + " Performance"
+        return H1(header_text)
     
 # Create a subclass of base_components/MatplotlibViz
 # called `LineChart`
