@@ -1,7 +1,7 @@
 
 # Project: Data Science Dashboard
 
-This repository contains code for the **Data Science Dashboard** project. 
+This repository contains code for the **Data Science Dashboard** project. The dashboard that allows managers to monitor an employee's performance and their predicted risk of recruitment. The dashboard visualizes the productivity of a single employee or a team of employees. It also displays an employee's likelihood of recruitment, or a team of employees' average likelihood of recruitment.
 
 ### Installation Instructions
 1. The requirements.txt file in the project root directory contains libraries needed for this project. Create a virtual environment and install them.
