@@ -88,4 +88,4 @@ erDiagram
 ```
 ### Credits
 1. Udacity Software Engineering Module
-2. Kike Obayemi
+2. Kikelomo Obayemi
