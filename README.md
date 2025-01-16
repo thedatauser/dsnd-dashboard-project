@@ -1,7 +1,14 @@
 
-# Software Engineering for Data Scientists 
+# Project: Data Science Dashboard
 
-This repository contains starter code for the **Software Engineering for Data Scientists** final project. Please reference your course materials for documentation on this repository's structure and important files. Happy coding!
+This repository contains code for the **Data Science Dashboard** project. 
+
+### Installation Instructions
+1. The requirements.txt file in the project root directory contains libraries needed for this project. Create a virtual environment and install them.
+2. To install the employee_events package, navigate to the python-package folder, then run python setup.py sdist bdist_wheel. This will create a dist folder containing a .tar.gz and .whl file. 
+3. next, run pip install dist/employee_events-0.0-py3-none-any.whl
+4. the employee_events package should now be installed.
+5. To display the dashboard, run report/dashboard.py and click on http://0.0.0.0:5001
 
 ### Repository Structure
 ```
@@ -79,3 +86,6 @@ erDiagram
   employee ||--o{ employee_events : "employee_id"
   notes }o--o{ employee_events : ""
 ```
+### Credits
+1. Udacity Software Engineering Module
+2. Kike Obayemi
