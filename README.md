@@ -5,8 +5,8 @@ This repository contains code for the **Data Science Dashboard** project. The da
 
 ### Installation Instructions
 1. The requirements.txt file in the project root directory contains libraries needed for this project. Create a virtual environment and install them.
-2. To install the employee_events package, navigate to the python-package folder, then run python setup.py sdist bdist_wheel. This will create a dist folder containing a .tar.gz and .whl file. 
-3. next, run pip install dist/employee_events-0.0-py3-none-any.whl
+2. To install the employee_events package, navigate to the python-package folder, then run `python setup.py sdist bdist_wheel`. This will create a dist folder containing a .tar.gz and .whl file. 
+3. next, run `pip install dist/employee_events-0.0-py3-none-any.whl`
 4. the employee_events package should now be installed.
 5. To display the dashboard, run report/dashboard.py and click on http://0.0.0.0:5001
 
