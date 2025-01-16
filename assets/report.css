@@ -3,3 +3,18 @@ body {
     margin-left: 25%;
     height: 100%;
 }
+
+.title {
+    color: blue;
+    font-size: 20px;
+}
+
+.x-axis-label {
+    font-size: 14px;
+    color: gray;
+}
+
+.y-axis-label {
+    font-size: 14px;
+    color: gray;
+}
