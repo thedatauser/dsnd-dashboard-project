@@ -10,6 +10,11 @@ This repository contains code for the **Data Science Dashboard** project.
 4. the employee_events package should now be installed.
 5. To display the dashboard, run report/dashboard.py and click on http://0.0.0.0:5001
 
+### Output
+
+<img width="727" alt="image" src="https://github.com/user-attachments/assets/95f9e570-bd90-4235-b607-0bba3875256c" />
+
+
 ### Repository Structure
 ```
 ├── README.md
